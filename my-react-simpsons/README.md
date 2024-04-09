@@ -1,5 +1,9 @@
 # React + Vite
 
+# Link api desplegada con vercel: https://simpsons-react-delta.vercel.app/
+
+# nota: al buscar un nombre de personaje, presione enter para buscar, para volver a generar un personaje random borre el texto que tiene en el buscador y seleccione "new character"
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
